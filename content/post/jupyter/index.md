@@ -38,10 +38,6 @@ categories:
   - сериалы
 ---
 
-```python
-import libr
-print('hello')
-```
 
 ## Обзор
 
