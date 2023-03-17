@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Татур Стефан
+title: Стефан Татур
 
 # Full name (for SEO)
-first_name: Стефан
-last_name: Татур
+first_name: Alice
+last_name: Wu
 
 # Status emoji
 status:
@@ -22,7 +22,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Всем привет! Меня зовут Стефан,я и из небольшого города в Московской области. В данный момент живу и учусь в Москве. Изучаю английский язык. Люблю математику.
+bio: Всем привет! Меня зовут Стефан,я и из небольшого города в Московской области. В данный момент живу и учусь. Изучаю английский язык. Люблю математику.
 
 # Interests to show in About widget
 interests:
@@ -36,7 +36,6 @@ education:
     - course: Прикладная математика и механика
       institution: РУДН
       year: 2022-2026
-    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Всем привет! Меня зовут Стефан,я и из небольшого города в Московской области. В данный момент живу и учусь. Изучаю английский язык. Люблю математику.
 {style="text-align: justify;"}
