@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](/afs/.dk.sci.pfu.edu.ru/home/s/a/satatur/blog/content/post/jupyter/image/козырьки.jpg)'
+  caption: 'Image credit: [**Unsplash**](featured.jpg/png)'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -46,7 +46,7 @@ print('hello')
 ## Обзор
 
 Сериал поражает своей насыщенностью и продуманностью сюжета. Больше всего мне понравилась актерская игра Киллиана Мерфи и то,как режиссер передал атмосферу Бирменгема 20-ого века.
-![Кадр из фильма](/afs/.dk.sci.pfu.edu.ru/home/s/a/satatur/blog/content/post/jupyter/image/козырьки.jpg)
+
 
 ## Рекомендации
 Однозначно рекомендую к просмотру!
